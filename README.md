@@ -2,7 +2,7 @@
 
 I'am Frontend Developer from Colombia
 
-- 🔭 Currently working on <a href="https://addi.com">ADDI</a>
+- 🔭 Currently working on <a href="https://addi.com" target="_blank">ADDI</a>
 - 🌱 I’m currently learning about of: __English, Next.js, React Native, DDD, Clean Code and Hexagonal Architectures__
 - 😄 My hobbies are: __Play Guitar and Motorcycling__
 - 💬 Ask me about: 
