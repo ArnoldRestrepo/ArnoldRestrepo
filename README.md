@@ -8,7 +8,7 @@ I'am Frontend Developer from Colombia
 - 💬 Ask me about: 
   - React
   - Frontend Technologies: HTML, CSS and JavaScript
-  - Organize and starting projects with Next.js
+  - Starting projects for the Web
 
 <div align="left">  
   <a href="https://twitter.com/arnoldrmusic" target="_blank">
